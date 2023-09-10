@@ -1,3 +1,4 @@
+This is a news website which is built using React.js . This website provides you with the latest news . Current headlines are fetched with the help of an api . It is a responsive website which can viewed in any of the mobile devices easily .
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
